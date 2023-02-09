@@ -1,0 +1,4 @@
+__pycache__/
+flaskcamenv/
+main.py
+wsgi.py
